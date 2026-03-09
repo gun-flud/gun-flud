@@ -4,7 +4,7 @@
 
 ### 💫 About Me:
 I'm Vlad👋 I'm a KPI (FICE) Software Engineering student. 
-<br>🌱 I’m currently learning `Javascript`, `C`, and want to learn `Java`, `C++`, `Go`, and `Python`
+<br>🌱 I’m currently learning `JavaScript`, `C`, and want to learn `Java`, `C++`, `Go`, and `Python`
 <br><br><br>
 
 ### 🌐 Socials:
@@ -29,22 +29,13 @@ I'm Vlad👋 I'm a KPI (FICE) Software Engineering student. 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-
-
 # 📊 GitHub Stats:
-
 ![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=gun-flud&theme=github_dark&show_icons=true&hide_border=true)
-![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=gun-flud&theme=github_dark&layout=compact&hide_border=true)<br><br>
-
-
-
+![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=gun-flud&theme=github_dark&layout=compact&hide_border=true)
 
 
 ## 🏆 GitHub Trophies
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gun-flud&theme=github_dark&layout=compact&hide_border=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=gun-flud&theme=dark-theme&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=gun-flud&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
