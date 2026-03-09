@@ -31,11 +31,11 @@ I'm Vlad👋 I'm a KPI (FICE) Software Engineering student. 
 
 # 📊 GitHub Stats:
 ![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=gun-flud&theme=github_dark&show_icons=true&hide_border=true)
-![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=gun-flud&theme=github_dark&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gun-flud&theme=github_dark&layout=compact&hide_border=true)
 
 
 ## 🏆 GitHub Trophies
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gun-flud&theme=github_dark&layout=compact&hide_border=true)<br/>
+![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=gun-flud&theme=github_dark&layout=compact&hide_border=true)<br>
 ![](https://github-profile-trophy.vercel.app/?username=gun-flud&theme=dark-theme&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
