@@ -1,7 +1,10 @@
 ## Hi there, I'm Vlad 👋
 ### Software Engineering Student  KPI (FICE) | Passionate about Full-Stack Development
-
+<!---
 <img align="left" width="55%" alt="Profile Avatar" src="https://github.com/user-attachments/assets/f5baf10a-a16a-4fae-a9e1-a0f5236b4104" />
+--->
+<img align="left" width="55%" alt="Profile Avatar" src="https://github.com/user-attachments/assets/9eda4a65-e632-49db-aeee-f6d206c3c8f0" />
+
 
 ### 💫 About Me:
 I'm a Software Engineering student at Igor Sikorsky KPI, passionate about building modern web applications.
@@ -9,6 +12,7 @@ I'm a Software Engineering student at Igor Sikorsky KPI, passionate about buildi
 🌱 **Current Focus:** `JavaScript`, `C`, and modern web tech.<br>
 🚀 **Next Up:** `Java`, `C++`, `Go`, and `Python`.<br>
 🤝 **Looking For:** Internships & open-source collaborations!
+<br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladivannikov)
