@@ -9,7 +9,6 @@ I'm a Software Engineering student at Igor Sikorsky KPI, passionate about buildi
 🌱 **Current Focus:** `JavaScript`, `C`, and modern web tech.<br>
 🚀 **Next Up:** `Java`, `C++`, `Go`, and `Python`.<br>
 🤝 **Looking For:** Internships & open-source collaborations!
-<br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladivannikov)
