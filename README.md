@@ -40,6 +40,7 @@ I'm a Software Engineering student at Igor Sikorsky KPI, passionate about buildi
 ## 🚀 My projects:
 
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=gun-flud&repo=react_quiz&theme=github_dark&hide_border=true)](https://github.com/gun-flud/react_quiz)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=gun-flud&repo=github_release_notifier&theme=github_dark&hide_border=true)](https://github.com/gun-flud/react_quiz)
 
 ## 📊 GitHub Stats:
 
