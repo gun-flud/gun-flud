@@ -51,4 +51,6 @@ I'm a Software Engineering student at Igor Sikorsky KPI, passionate about buildi
 
 ![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=gun-flud&theme=github_dark&layout=compact&hide_border=true&count_private=true)
 
+<!---
 ![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=gun-flud&theme=onestar&margin-w=16&no-frame=true&title=-Reviews,-Followers)
+--->
