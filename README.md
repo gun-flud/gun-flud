@@ -9,8 +9,8 @@
 ### 💫 About Me:
 I'm a Software Engineering student at Igor Sikorsky KPI, passionate about building modern web applications.
 
-🌱 **Current Focus:** `JavaScript`, `C`, and modern web tech.<br>
-🚀 **Next Up:** `Java`, `C++`, `Go`, and `Python`.<br>
+🌱 **Current Focus:** `JS/TS`, `C`, `Java`, and modern web tech.<br>
+🚀 **Next Up:** `C++`, `Go`, `C#`, and `Python`.<br>
 🤝 **Looking For:** Internships & open-source collaborations!
 <br>
 
@@ -23,7 +23,7 @@ I'm a Software Engineering student at Igor Sikorsky KPI, passionate about buildi
 
 ## 💻 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=c,js,nodejs,express,postgres,git,react,html,css,tailwind,vite&theme=dark&perline=6)
+![My Skills](https://skillicons.dev/icons?i=c,java,js,ts,nodejs,express,docker,linux,postgres,git,react,html,css,tailwind,vite&theme=dark&perline=10)
 
 <!---
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
